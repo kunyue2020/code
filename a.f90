@@ -1,2 +1,5 @@
-h:wq
+program mao
+        write(*,*) "a"
+        end
+
 
